@@ -29,7 +29,7 @@ Projeto desenvolvido para auxiliar no conhecimento! </p>
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O Jazz School é um projeto para incentivar a música.
 
 - [Acesse o projeto online aqui](https://github.com/mateustomaz1/Projeto-Jazz-School)
 
